@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="OkzBO-bFBCk4MlwFeBYW">
-    <mxGraphModel dx="1404" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1591" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,7 +33,7 @@
         <mxCell id="m_nHsPne1GCTFTSuIpm9-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Email" vertex="1">
           <mxGeometry height="80" width="120" x="1470" y="445" as="geometry" />
         </mxCell>
-        <mxCell id="m_nHsPne1GCTFTSuIpm9-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mã KH" vertex="1">
+        <mxCell id="m_nHsPne1GCTFTSuIpm9-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" value="Mã KH" vertex="1">
           <mxGeometry height="80" width="120" x="1181" y="265" as="geometry" />
         </mxCell>
         <mxCell id="m_nHsPne1GCTFTSuIpm9-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="SDT" vertex="1">
@@ -68,7 +68,7 @@
         <mxCell id="m_nHsPne1GCTFTSuIpm9-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="SDT" vertex="1">
           <mxGeometry height="80" width="120" x="680" y="845" as="geometry" />
         </mxCell>
-        <mxCell id="m_nHsPne1GCTFTSuIpm9-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mã nhân viên" vertex="1">
+        <mxCell id="m_nHsPne1GCTFTSuIpm9-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" value="Mã nhân viên" vertex="1">
           <mxGeometry height="80" width="120" x="860" y="845" as="geometry" />
         </mxCell>
         <mxCell id="m_nHsPne1GCTFTSuIpm9-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Họ tên" vertex="1">
@@ -98,7 +98,7 @@
         <mxCell id="m_nHsPne1GCTFTSuIpm9-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Khách hàng" vertex="1">
           <mxGeometry height="60" width="120" x="1284" y="385" as="geometry" />
         </mxCell>
-        <mxCell id="m_nHsPne1GCTFTSuIpm9-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mã SP" vertex="1">
+        <mxCell id="m_nHsPne1GCTFTSuIpm9-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" value="Mã SP" vertex="1">
           <mxGeometry height="80" width="120" x="704" y="285" as="geometry" />
         </mxCell>
         <mxCell id="m_nHsPne1GCTFTSuIpm9-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Tên SP" vertex="1">
@@ -133,7 +133,7 @@
         <mxCell id="m_nHsPne1GCTFTSuIpm9-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Ngày đặt" vertex="1">
           <mxGeometry height="80" width="120" x="1420" y="825" as="geometry" />
         </mxCell>
-        <mxCell id="m_nHsPne1GCTFTSuIpm9-42" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mã đơn" vertex="1">
+        <mxCell id="m_nHsPne1GCTFTSuIpm9-42" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" value="Mã đơn" vertex="1">
           <mxGeometry height="80" width="120" x="1164" y="795" as="geometry" />
         </mxCell>
         <mxCell id="m_nHsPne1GCTFTSuIpm9-43" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Tổng tiền" vertex="1">
