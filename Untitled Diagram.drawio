@@ -28,7 +28,7 @@
         <mxCell id="IWNJmw801ZjH4X6JTXCK-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Email" vertex="1">
           <mxGeometry height="80" width="120" x="740" y="640" as="geometry" />
         </mxCell>
-        <mxCell id="IWNJmw801ZjH4X6JTXCK-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mã sv" vertex="1">
+        <mxCell id="IWNJmw801ZjH4X6JTXCK-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" value="Mã sv" vertex="1">
           <mxGeometry height="80" width="120" x="680" y="330" as="geometry" />
         </mxCell>
         <mxCell id="IWNJmw801ZjH4X6JTXCK-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Khoa" vertex="1">
@@ -67,7 +67,7 @@
         <mxCell id="IWNJmw801ZjH4X6JTXCK-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Email" vertex="1">
           <mxGeometry height="80" width="120" x="730" y="940" as="geometry" />
         </mxCell>
-        <mxCell id="IWNJmw801ZjH4X6JTXCK-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mã giảng viên" vertex="1">
+        <mxCell id="IWNJmw801ZjH4X6JTXCK-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" value="Mã giảng viên" vertex="1">
           <mxGeometry height="80" width="120" x="1020" y="950" as="geometry" />
         </mxCell>
         <mxCell id="IWNJmw801ZjH4X6JTXCK-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Khoa" vertex="1">
@@ -94,7 +94,7 @@
         <mxCell id="IWNJmw801ZjH4X6JTXCK-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Môn học" vertex="1">
           <mxGeometry height="60" width="120" x="1334" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="IWNJmw801ZjH4X6JTXCK-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mã môn" vertex="1">
+        <mxCell id="IWNJmw801ZjH4X6JTXCK-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" value="Mã môn" vertex="1">
           <mxGeometry height="80" width="120" x="1344" y="350" as="geometry" />
         </mxCell>
         <mxCell id="IWNJmw801ZjH4X6JTXCK-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Tên môn" vertex="1">
@@ -127,7 +127,7 @@
         <mxCell id="IWNJmw801ZjH4X6JTXCK-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Năm học" vertex="1">
           <mxGeometry height="80" width="120" x="1470" y="920" as="geometry" />
         </mxCell>
-        <mxCell id="IWNJmw801ZjH4X6JTXCK-42" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Mã lớp học phần" vertex="1">
+        <mxCell id="IWNJmw801ZjH4X6JTXCK-42" parent="1" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" value="Mã lớp học phần" vertex="1">
           <mxGeometry height="80" width="120" x="1214" y="890" as="geometry" />
         </mxCell>
         <mxCell id="IWNJmw801ZjH4X6JTXCK-43" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Học kì" vertex="1">
